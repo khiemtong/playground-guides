@@ -2,8 +2,8 @@
 
 * Go to [https://swift.org/download/](https://swift.org/download/)
 * Download the latest version Ubuntu version (check using `lsb_release -a`, should be 14.04)
- * e.g. wget https://swift.org/builds/swift-2.2.1-release/ubuntu1404/swift-2.2.1-RELEASE/swift-2.2.1-RELEASE-ubuntu14.04.tar.gz
-* Extract the tarball
+ * `wget https://swift.org/builds/swift-2.2.1-release/ubuntu1404/swift-2.2.1-RELEASE/swift-2.2.1-RELEASE-ubuntu14.04.tar.gz
+* Extract the tarball`
 
 # Install Dependencies
 
