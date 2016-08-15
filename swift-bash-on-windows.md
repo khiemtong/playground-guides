@@ -33,9 +33,9 @@ sudo apt-get install clang libicu-dev
  * Swift REPL is not currently working from what I can find
 
 # What do I use this for?
- * To play around with a (new) programming language
- * Write some scripts in Swift because you like it
- * To be proud of the fact that you're using an Apple created programming language on Linux in Windows
+ * To play around with a (new) programming language (i.e. when you don't have a Mac handy)
+ * Write some scripts in Swift because you can
+ * Bask in the idea that you're using Apple created programming language on Linux in Windows
 
 
 
